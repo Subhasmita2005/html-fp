@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<title>  HTML Form Page </title>
+<head> Please fill in your details !!! </head>
+<body>
+<form> 
+<table>
+<tr> 
+<td> FIRST NAME: </td>
+<td> <input type="text" placeholder="firstname" name=" "> </td>
+</tr>
+<tr>
+<td> LAST NAME: </td>
+<td> <input type="text" placeholder="lastname" name=" "></td>
+</tr>
+<tr> 
+<td> BRANCH: </td>
+<td> <select> 
+<option>Computer Science & Engineering</option>
+<option>Information Technology</option>
+<option>Electronics & Telecommunication Engineering</option>
+<option>Electrical & Electronics Engineering</option>
+<option>Electrical Engineering</option>
+<option>Mechanical Engineering</option>
+<option>Metallurgy & Material Engineering</option>
+<option>Production Engineering</option>
+<option>Civil Engineering</option>
+</select></td>
+</tr>
+<tr> 
+<td> DREAM COMPANY: </td> 
+<td> <input type="text" placeholder="dreamcompany" name=" "></td>
+</tr>
+<tr> 
+<td>SKILLS: </td>
+<td> <input type="text" placeholder="skills" name=" "></td>
+</tr>
+</table>
+</form>
+</body>
+</html>
+
+
+
+
